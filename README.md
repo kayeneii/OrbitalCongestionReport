@@ -30,7 +30,7 @@ This report is the result of a team effort to enhance space situational awarenes
 
 [Shruthi Bhaskaran MK](https://www.linkedin.com/in/shruthi-bhaskaran-m-k-4084b1323): Data analyst with years of contribution to the education sector
 
-[Favour "Nimi" Adebayo](https://www.linkedin.com/in/kayeneii):** Data analyst using analytics and allied ML in the defence industry
+[Favour "Nimi" Adebayo](https://www.linkedin.com/in/kayeneii): Data analyst using analytics and applied ML in the aerospace and defense industry
 
 ---
 ## Presentation
